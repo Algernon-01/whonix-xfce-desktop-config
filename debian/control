@@ -1,0 +1,21 @@
+## Copyright (C) 2012 - 2018 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: whonix-xfce-desktop-config
+Section: misc
+Priority: optional
+Maintainer: Algernon <33966997+Algernon-01@users.noreply.github.com>
+Build-Depends: debhelper (>= 9), genmkfile
+Homepage: https://github.com/Whonix/whonix-xfce-desktop-config
+Vcs-Browser: https://github.com/Whonix/whonix-xfce-desktop-config
+Vcs-Git: https://github.com/Whonix/whonix-xfce-desktop-config.git
+Standards-Version: 3.9.8
+
+Package: whonix-xfce-desktop-config
+Architecture: all
+Depends: ${misc:Depends}
+Description: Configuration for Whonix Xfce Desktop
+ Installs the configuration for the Whonix Xfce Desktop 
+ like wallpaper and task bar.
+ .
+ Also disables thumbnails.
