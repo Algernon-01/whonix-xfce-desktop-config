@@ -15,7 +15,7 @@ Package: whonix-xfce-desktop-config
 Architecture: all
 Depends: ${misc:Depends}
 Description: Configuration for Whonix Xfce Desktop
- Installs the configuration for the Whonix Xfce Desktop 
+ Installs the configuration for the Whonix Xfce Desktop
  like wallpaper and task bar.
  .
  Also disables thumbnails.
