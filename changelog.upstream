@@ -1,5 +1,17 @@
-commit 2bd6a7fd5a1003e2c872cf3c41975eb724f43ab8
-Author: Algernon <33966997+Algernon-01@users.noreply.github.com>
-Date:   Thu, 25 Oct 2018 09:57:06 +0000
+commit a626fc2911476d196e16aec391422d0189252fa1
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 8 09:49:30 2018 +0000
 
-    Configuration for Whonix Xfce Desktop.
+    minor
+
+commit 06d16336d52d1d9feafab9a9f9419d9ac9fa84b2
+Author: Algernon-01 <33966997+Algernon-01@users.noreply.github.com>
+Date:   Fri Nov 2 10:11:05 2018 +0000
+
+    Removed some settings. Added description. thunar.xml will be added to security-misc.
+
+commit 188808651d99c7fc4fc01b53f722e176d7af95a9
+Author: Algernon-01 <33966997+Algernon-01@users.noreply.github.com>
+Date:   Wed Oct 31 17:42:13 2018 +0000
+
+    Initial commit.
