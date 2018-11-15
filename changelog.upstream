@@ -1,3 +1,31 @@
+commit 9ac810fe467f126cc3ffd928714639de85e3e904
+Merge: 830dbc2 ac1233e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 15 05:38:27 2018 +0000
+
+    Merge remote-tracking branch 'origin/master'
+
+commit ac1233ec6f5123990e2c6562eb073f72ebe0cfde
+Merge: 830dbc2 34c95b0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 15 00:34:03 2018 -0500
+
+    Merge pull request #1 from Algernon-01/master
+    
+    Disable saved sessions.
+
+commit 34c95b0c3f067fdbd40c80842e8f60bc24d59b31
+Author: Algernon-01 <33966997+Algernon-01@users.noreply.github.com>
+Date:   Wed Nov 14 18:18:37 2018 +0000
+
+    Disable saved sessions.
+
+commit 830dbc2805fc126dc2893e6b094551d1cdb733e6
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 8 09:56:17 2018 +0000
+
+    bumped changelog version
+
 commit a626fc2911476d196e16aec391422d0189252fa1
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Nov 8 09:49:30 2018 +0000
