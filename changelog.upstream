@@ -1,3 +1,17 @@
+commit ea4afc3a5fca2994a3d99604160c17275731c47e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Nov 28 06:23:03 2018 +0000
+
+    disable maximize window when moving to the top
+    
+    https://phabricator.whonix.org/T880
+
+commit 317e7eb09278d3c445a96934bc607e313d0c0d9d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Nov 15 06:35:03 2018 +0000
+
+    bumped changelog version
+
 commit 9ac810fe467f126cc3ffd928714639de85e3e904
 Merge: 830dbc2 ac1233e
 Author: Patrick Schleizer <adrelanos@riseup.net>
