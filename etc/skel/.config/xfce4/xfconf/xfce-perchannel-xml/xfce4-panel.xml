@@ -18,6 +18,7 @@
         <value type="int" value="3"/>
         <value type="int" value="2"/>
         <value type="int" value="10"/>
+        <value type="int" value="12"/>
       </property>
       <property name="size" type="uint" value="30"/>
       <property name="nrows" type="uint" value="1"/>
@@ -61,5 +62,6 @@
     </property>
     <property name="plugin-8" type="string" value="tasklist"/>
     <property name="plugin-10" type="string" value="systray"/>
+    <property name="plugin-12" type="string" value="genmon"/>
   </property>
 </channel>

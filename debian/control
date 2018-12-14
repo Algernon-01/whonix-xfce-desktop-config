@@ -13,7 +13,7 @@ Standards-Version: 3.9.8
 
 Package: whonix-xfce-desktop-config
 Architecture: all
-Depends: xfce4-whiskermenu-plugin, ${misc:Depends}
+Depends: xfce4-whiskermenu-plugin, xfce4-genmon-plugin, ${misc:Depends}
 Description: Configuration for Whonix Xfce Desktop
  Installs the configuration for the Whonix Xfce Desktop
  like wallpaper and task bar.
