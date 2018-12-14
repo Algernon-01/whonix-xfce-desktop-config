@@ -1,3 +1,37 @@
+commit 6b58613e7b4e53dda42830bc4acfd4fc32dbce70
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 14 04:57:00 2018 -0500
+
+    minor formatting
+
+commit 606b2713ae0b2920ff5371ce78cb805e37b762fc
+Merge: ae3f8eb 16a033d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 14 04:54:19 2018 -0500
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 16a033d319167ba6188ea5fe723c3f54e0cd010c
+Merge: ae3f8eb 5e27ae2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Dec 14 04:53:02 2018 -0500
+
+    Merge pull request #3 from Algernon-01/master
+    
+    Add live mode indicator.
+
+commit 5e27ae27b7972ff851219282be55859a7ea5477f
+Author: Algernon-01 <33966997+Algernon-01@users.noreply.github.com>
+Date:   Thu Dec 13 19:53:20 2018 +0000
+
+    Add live mode indicator.
+
+commit ae3f8ebf60b8a602fb0f2e3ca7b1c41915123f48
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Wed Nov 28 08:20:07 2018 +0000
+
+    bumped changelog version
+
 commit ade25b5b50df5d9b6d7b550aa72484c14c3c314e
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Nov 28 03:11:57 2018 -0500
