@@ -28,4 +28,5 @@ else
    echo "<img>/usr/share/icons/gnome-colors-common/22x22/status/gtk-info.png</img>"
    echo "<tool>You are using persistent mode. All changes to the disk will be preserved after a reboot. For using live mode, see: https://whonix.org/wiki/Whonix_Live or click on the icon for more information.</tool>"
    echo "<click>x-www-browser https://whonix.org/wiki/Whonix_Live</click>"
+   echo "<txtclick>x-www-browser https://whonix.org/wiki/Whonix_Live<txtclick>"
 fi
