@@ -14,13 +14,13 @@ if grep -qs "boot=live" /proc/cmdline; then
       echo "<txt>Live</txt>"
       echo "<tool>Live mode is enabled. All changes to the disk will be gone after a reboot. See: https://whonix.org/wiki/Whonix_Live or click on the icon for more information.</tool>"
       echo "<click>x-www-browser https://whonix.org/wiki/Whonix_Live</click>"
-      echo "<txtclick>x-www-browser https://whonix.org/wiki/Whonix_Live</txtclick>" 
+      echo "<txtclick>x-www-browser https://whonix.org/wiki/Whonix_Live</txtclick>"
    else
       # disk is not set to RO
       echo "<img>/usr/share/icons/Adwaita/16x16/status/dialog-warning.png</img>"
       echo "<txt>Live</txt>"
       echo "<tool>Live mode is enabled but it is still possible to write to the disk. Please power off the machine and set the disk to read-only. See: https://whonix.org/wiki/Whonix_Live or click on the icon for more information.</tool>"
-      echo "<click>x-www-browser https://whonix.org/wiki/Whonix_Live</click>" 
+      echo "<click>x-www-browser https://whonix.org/wiki/Whonix_Live</click>"
       echo "<txtclick>x-www-browser https://whonix.org/wiki/Whonix_Live</txtclick>"
    fi
 else
